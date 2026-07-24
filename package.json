@@ -1,7 +1,7 @@
 {
   "name": "@nasa-gcn/npm-publish",
   "description": "NPM Publish with automatic NPM tag based on prerelease ID",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "contributors": [
     {
       "name": "Leo Singer",
